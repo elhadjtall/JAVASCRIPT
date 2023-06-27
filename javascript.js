@@ -26,5 +26,6 @@ typeof() afficher le type de caractère
 prompt() Verifie les informations et les affiches directements 
 parseint()
 parsefloat() Afficher en mode number
-const() c'est une variable constante qu'on ne peut pas modifier
+const() c'est une variable constante qu'on ne peut pas modifier por les nombres, chaines de contères, coléans 
+        types des données constant, mais contenu modifiable pour les tableaux et objets
 */
