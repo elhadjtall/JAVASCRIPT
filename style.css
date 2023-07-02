@@ -99,6 +99,7 @@ header{
 }
 .inner{
     max-width: 35rem;
-    background-color: white;
-    
+    text-align: center;
+    color: #fff;
+    padding: 10px;
 }
