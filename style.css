@@ -71,3 +71,14 @@ body{
 .bar::after{
     transform: translateY(9px);
 }
+.main{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    z-index: 0;
+    background-color: white;
+    overflow: hidden;
+}
+header{
+    
+}
