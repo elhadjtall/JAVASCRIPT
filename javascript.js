@@ -28,4 +28,18 @@ parseint()
 parsefloat() Afficher en mode number
 const() c'est une variable constante qu'on ne peut pas modifier por les nombres, chaines de contères, coléans 
         types des données constant, mais contenu modifiable pour les tableaux et objets
+
+
+les chaines de caractères en JS 
+let s1 = "arbre"
+document.write(s1);
+Connaitre la longueur de la chaine de caractère 
+document.write(s1.lenght);
 */
+// let s = "Mangue sont mur";
+// document.write(s.length);
+
+// let nom = "Oumar";
+// let age = 27;
+// // document.write("Bonjour, votre nom est : " + nom + " et vous avez :"+ age + " ans");
+// document.write(nom +  age);
