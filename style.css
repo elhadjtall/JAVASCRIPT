@@ -67,6 +67,6 @@ body{
 .bar::before{
     transform: translateY(-9px);
 }
-.bar::before{
-    transform: translateY(-9px);
+.bar::after{
+    transform: translateY(9px);
 }
